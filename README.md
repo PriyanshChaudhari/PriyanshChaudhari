@@ -6,7 +6,7 @@
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
 <p align='center'>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=PriyanshChaudhari.PriyanshChaudhari)
+<!---![visitors](https://visitor-badge.glitch.me/badge?page_id=PriyanshChaudhari.PriyanshChaudhari)--->
 
 </p>
 <div size='20px'> Hi! My name is Priyansh Chaudhari. Thank You for taking the time to view my GitHub Profile :smile: 
