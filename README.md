@@ -17,7 +17,7 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/47a1a7b035154ce002fffc42e803b6ca8acbc4f3/gifs/git-header.svg" />
 
 
-- 🔭 I’m currently working on A project using java language which is not meant to be disclosed.
+- 🔭 I’m currently working on A project using java.It is a server bot on Discord.
 
 
 - 🌱 I’m currently learning Data Structures and Algorithms, Java, AI Development and AI Training Procedurals. 
