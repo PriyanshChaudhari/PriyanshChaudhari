@@ -17,15 +17,14 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/47a1a7b035154ce002fffc42e803b6ca8acbc4f3/gifs/git-header.svg" />
 
 
-- 🔭 I’m currently working on A fullstack web development project.It is EWMS(Employee Work Management System).<br>
-↳  EWMS is made to manage and monitor work of emploees in any domain of firm.
-
+- 🔭 I’m currently working on a fullstack Webdev project.It is LMS(Learning Management System).<br>
+↳  System Designed to organize the learning procedure of the organization.
 
 - 🌱 I’m currently learning ReactJS and NodeJS. 
 
 - 👯 I’m looking to collaborate on Open source projects which can be made successful using C/C++ and Data Structures. 
 
-- 💬 Talk to me about Open source, C/C++ Development, AI development and frontend Webdev. 
+- 💬 Talk to me about Open source, C/C++ Development, AI development and Webdev. 
 
 <h2> Skills <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h2>
 <a href= https://github.com/PriyanshChaudhari?tab=repositories&q=&type=&language=c&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'> </a>
